@@ -1,2 +1,11 @@
 # arduinoredirect.github.io
-made to redirect an arduino connected to the internet to google
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="refresh" content="0;url=https://www.google.com" />
+</head>
+<body>
+Redirecting to Google...
+</body>
+</html>
+
